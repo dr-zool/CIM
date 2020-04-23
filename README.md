@@ -1,5 +1,5 @@
 # NVIDIA TEACHING KIT FOR CIM
-NVIDIA Teaching Kits include access to free online DLI courses and electives – a value of up to $90 per person per course. 
+NVIDIA Teaching Kits include access to free online DLI courses and electives. 
 
 DLI training reinforces deep learning and accelerated computing concepts presented in the Teaching Kits and teaches students how to apply those concepts to end-to-end projects. Through built-in assessments, students can earn certifications that prove subject matter competency and can be leveraged for professional career growth. Each course presents a self-paced learning environment with access to a GPU-accelerated workstation in the cloud. All you need is a web browser and Internet connection to get started.
 
